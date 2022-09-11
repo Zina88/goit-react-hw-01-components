@@ -8,6 +8,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   color: rgba(36, 24, 24, 0.976);
   font-size: 18px;
+  background-color: rgba(117, 116, 116, 0.377);
 }
 
 code {
