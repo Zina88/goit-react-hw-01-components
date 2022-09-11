@@ -27,6 +27,14 @@
   margin-right: 10px;
 }
 
+.true {
+  background-color: rgb(65, 229, 65);
+}
+
+.false {
+  background-color: rgb(233, 62, 62);
+}
+
 .avatar {
   margin-right: 10px;
 }
